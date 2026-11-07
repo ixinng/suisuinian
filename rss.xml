@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>邢哥碎碎念</title>
+    <link>https://suisuinian.top</link>
+    <description>随你所念，记录生活点滴</description>
+    <atom:link href="https://suisuinian.top/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>初冬午后，一杯咖啡的时间</title>
+      <link>https://suisuinian.top/blog/winter-afternoon</link>
+      <description>冬天的阳光总是来得吝啬，但当它出现的时候，值得停下来好好感受。</description>
+      <pubDate>Wed, 15 Nov 2024 00:00:00 GMT</pubDate>
+      <guid>https://suisuinian.top/blog/winter-afternoon</guid>
+    </item>
+    <item>
+      <title>路过的店</title>
+      <link>https://suisuinian.top/blog/street-shop</link>
+      <description>街角新开了一家小面包店，烘焙的香味飘满了整条街。</description>
+      <pubDate>Tue, 08 Nov 2024 00:00:00 GMT</pubDate>
+      <guid>https://suisuinian.top/blog/street-shop</guid>
+    </item>
+    <item>
+      <title>随念而记</title>
+      <link>https://suisuinian.top/blog/follow-your-thoughts</link>
+      <description>为什么建了这个博客，以及我希望它能成为什么样的地方。</description>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid>https://suisuinian.top/blog/follow-your-thoughts</guid>
+    </item>
+    <item>
+      <title>夜雨听书</title>
+      <link>https://suisuinian.top/blog/rainy-night-reading</link>
+      <description>秋雨绵绵的夜晚，点一盏灯，翻开一本旧书，是最好的消遣。</description>
+      <pubDate>Thu, 22 Oct 2024 00:00:00 GMT</pubDate>
+      <guid>https://suisuinian.top/blog/rainy-night-reading</guid>
+    </item>
+    <item>
+      <title>一个人的旅行</title>
+      <link>https://suisuinian.top/blog/solo-travel</link>
+      <description>国庆假期独自去了一个小镇，没有攻略，没有计划，只是走着。</description>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
+      <guid>https://suisuinian.top/blog/solo-travel</guid>
+    </item>
+  </channel>
+</rss>
